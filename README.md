@@ -25,7 +25,7 @@ This project implements a chatbot interface for tumor detection using deep learn
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RitikPal98/intel.git
+   git clone https://github.com/satyapal048/intel.git
    ```
 
 2. Navigate to the project directory:
